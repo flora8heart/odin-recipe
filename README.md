@@ -4,7 +4,7 @@
 
 ## Description
 
-Odin Recipe is my first HTML project on The Odin Project as part of the foundations course.
+Odin Recipe is my first HTML project on [The Odin Project](https://www.theodinproject.com/about) as part of the [foundations](https://www.theodinproject.com/paths/foundations/courses/foundations) course.
 
 Please see [here](https://flora8heart.github.io/odin-recipe/) for a live preview of the webpage.
 
