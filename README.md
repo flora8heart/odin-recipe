@@ -4,7 +4,7 @@
 
 ## Description
 
-Odin Recipe is my first HTML project on The Odin Project as part of the foundation course.
+Odin Recipe is my first HTML project on The Odin Project as part of the foundations course.
 
 Please see [here](placeholder) for a live preview of the webpage.
 
